@@ -1,0 +1,70 @@
+head1{
+    /* text-align: center; */
+    color: red;
+    font-style: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#p1{
+    /* text-align: center; */
+    font-size: 30px;
+
+}
+body{
+    /*background-image: linear-gradient(90deg, cyan, indigo);
+    background-size: 400% 400%;
+    animation: google 15% ease infinite;
+    height: 100vh;*/
+    background-color: red;
+    animation: sit 20s infinite;
+}
+@keyframes sit {
+    0%{
+background-color: aqua;
+    }
+    10%{ 
+ba
+    }
+    20%{
+
+    }
+    30%{
+
+    }
+    40%{
+
+    }
+    50%{
+
+    }
+    60%{
+
+    }
+    70%{
+
+    }
+    80%{
+
+    }
+    90%{
+
+    }
+    100%{
+
+    }
+}
+sp1{
+    color: green;
+    font-weight: bold;
+}
+sp2{
+    color: yellow;
+    font-weight: bold;
+}
+sp1{
+    color: cyan;
+    font-weight: bold;
+}
+sp2{
+    color: beige;
+    font-weight: bold;
+}

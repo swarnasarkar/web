@@ -1,0 +1,46 @@
+.b1{
+    background-image: linear-gradient(90deg, red, blue);
+    text-align: center;
+}
+.head1{
+    text-align: center;
+    font-weight: bold;
+    font-family: fantasy;
+    color: ghostwhite;
+    letter-spacing: 3px;
+    font-size: 35;
+}
+#t1{
+    
+    color: white;
+    font-size: 25px;
+    font-family:Sofia;
+}
+input[type=text],input[type=email],input[type=password]
+{
+    width: 200px;
+    height: 40px;
+    border-radius: 25px 0 12px;
+    border-color: transparent;
+    color:black;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+#btn1
+{
+    height: 45px;
+    width: 100px;
+    background-color: red;
+    color: antiquewhite;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 12px;
+    border-color: transparent;
+
+}
+#btn1:hover{
+    background-color: green;
+    cursor: pointer;
+}

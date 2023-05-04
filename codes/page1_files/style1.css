@@ -1,0 +1,21 @@
+b1{
+    background-image: linear-gradient(90deg,blue);
+}
+head1{
+    text-align: center;
+    font-weight: bold;
+    font-family: fantasy;
+    color: ghostwhite;
+    letter-spacing: 3px;
+    font-size: 35px;
+}
+#t1{
+    border-color: white;
+    border-style: dashed;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+p1{
+    padding: right 40px; ;
+}
